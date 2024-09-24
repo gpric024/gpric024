@@ -27,22 +27,22 @@ Hello! I'm **Gregory Price**, an AI researcher and software engineer dedicated t
 ### Languages
 - Python 🐍
 - Java ☕
-- SQL
+- SQL 🗄️
 
 ### Frameworks
 - TensorFlow 🤖
 - PyTorch 🔥
-- Scikit-learn
-- Transformers
+- Scikit-learn 📊
+- Transformers 🧙‍♂️
 
 ### Tools
 - Git 🦊
 - Docker 🐳
-- CUDA
+- CUDA ⚡
 
 ### Platforms
 - AWS ☁️
 - Azure 🌐
-- GCP
+- GCP ☁️ (Google Cloud Platform)
 
 ---
