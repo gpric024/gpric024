@@ -11,7 +11,7 @@ Hello! I'm **Gregory Price**, an AI researcher and software engineer dedicated t
 - 🤝 **Collaboration:** Always open to projects in NLP!
 - 💡 **Expertise:** NLP, HuggingFace, Transformers, PyTorch, TensorFlow, Scikit-learn, Machine Learning, Pandas, Matplotlib, Python, Java, SQL
 - ✉️ **Contact:** gpric024@gmail.com
-- 🎉 **Fun Fact:** I am 2 games away from immortal in Dota 2
+- 🎉 **Fun Fact:** I am 2 games away from immortal in Dota 2 (I am a very positive player)
 
 ---
 
