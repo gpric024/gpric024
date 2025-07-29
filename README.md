@@ -18,7 +18,7 @@ Hello! I'm **Gregory Price**, an AI researcher and software engineer dedicated t
 ## 🌐 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/greg-price-4-hire/) 
-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=website&logoColor=white)](https://gpric024.github.io/Portfolio/) 
+
 
 ---
 
